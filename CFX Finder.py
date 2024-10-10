@@ -197,6 +197,6 @@ if sstrun == 'N' or sstrun == 'n':
     cleanup()
     os._exit(1)
 elif sstrun == 'Y' or sstrun == 'y':
-    os.system('sst.exe')
+    os.system('C:\\Users\\tools\\sst.exe')
     cleanup()
 
