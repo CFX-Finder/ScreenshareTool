@@ -10,7 +10,7 @@ Welcome to the **CFX Finder SS Tool**! This is a free utility designed to help u
 
 ## 📦 Installation
 
-1. **Download:** You can download the latest version from the [Releases](https://github.com/cfxfinder/sstool/releases) section.
+1. **Download:** You can download the latest version from the [Releases](https://github.com/CFX-Finder/ScreenshareTool/releases) section.
 2. **Extract:** Unzip the downloaded file to a folder of your choice.
 3. **Run the Tool:** Double-click the executable file to start scanning your system.
 
